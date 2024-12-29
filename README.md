@@ -12,7 +12,7 @@ Bienvenue dans mon dépôt GitHub ! Ce projet contient **tout ce qu'il faut sa
 # 🚀 Installer et configurer votre environnement de Terminal
 
 ## 📦 1. Installation de Oh-My-Posh
-echo "➡️ Installation de Oh-My-Posh..."
+➡️ Installation de Oh-My-Posh
 curl -s https://ohmyposh.dev/install.sh | bash -s -- -d /bin
 
 ## 🎨 2. Installation de mon template Oh-My-Posh
