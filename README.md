@@ -1,6 +1,6 @@
 # 🖥️ Mon Profil Terminal Windows
 
-Bienvenue dans mon dépôt GitHub ! Ce projet contient **tout ce qu'il faut savoir** sur mon **profil de Terminal Windows** 🛠️. Si vous êtes curieux de voir ma configuration ou de vous en inspirer, vous êtes au bon endroit ! 🚀
+Ce projet contient **tout ce qu'il faut savoir** sur mon **profil de Terminal Windows** 🛠️. Si vous êtes curieux de voir ma configuration ou de vous en inspirer, vous êtes au bon endroit ! 🚀
 
 ## 🗂️ Contenu du dépôt
 - 🎨 **Personnalisation** : Thèmes, couleurs, et styles.
@@ -11,9 +11,9 @@ Bienvenue dans mon dépôt GitHub ! Ce projet contient **tout ce qu'il faut sa
 
 # 🚀 Installer et configurer votre environnement de Terminal
 
-## 📦 1. Installation de Oh-My-Posh
-➡️ Installation de Oh-My-Posh
-curl -s https://ohmyposh.dev/install.sh | bash -s -- -d /bin
+## 📦 1. Installation de Oh-My-Posh  
+➡️ Installation de Oh-My-Posh  
+curl -s https://ohmyposh.dev/install.sh | bash -s -- -d /bin  
 
 ## 🎨 2. Installation de mon template Oh-My-Posh
 ➡️ Installation du thème personnalisé
