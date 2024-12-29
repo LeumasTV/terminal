@@ -30,8 +30,8 @@ Générez un ASCII Art basé sur du texte en utilisant ce site :
 https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20  
 Créez un fichier nommé "neo" à la racine de votre utilisateur (nano ~/neo) et collez-y le contenu généré. ✅  
 
-## 🌀 5. Installation de Ble.sh (auto-complétion pour Bash)  
-➡️ Installation de Ble.sh !!! Le programme doit être installer sur CHAQUES utilisateurs, l'installation est donc necessaire sur votre compte utilisateur AINSI que le compte ROOT)  
+## 🌀 5. Installation de Ble.sh (auto-complétion pour Bash)
+➡️ Installation de Ble.sh !!! Le programme doit être installer sur CHAQUES utilisateurs, l'installation est donc necessaire sur votre compte utilisateur AINSI que le compte ROOT) !!  
 sudo apt install git make gawk -y  
 git clone --recursive --depth 1 --shallow-submodules https://github.com/akinomyoga/ble.sh.git  
 make -C ble.sh install PREFIX=~/.local  
